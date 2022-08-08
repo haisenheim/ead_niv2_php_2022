@@ -17,3 +17,7 @@ div.footer{
     min-height: 5vh;
     background-color: #ccc;
 }
+
+li.bg-success,li.bg-danger,li.bg-info,li.bg-warning{
+    color: #fff;
+}
